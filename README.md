@@ -1,7 +1,7 @@
 # Iris web app deployed on Heroku
 ___
 
-<!-- The deployed web app is live at https://dp-penguins.herokuapp.com/ -->
+The deployed web app is live at https://iris-svm.herokuapp.com/
 
 This web app predicts the species of iris flower as a function of their input parameters (SepalLength, SepalWidth, PetalLength and PetalWidth).
 

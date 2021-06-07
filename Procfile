@@ -1,0 +1,1 @@
+web: sh setup.sh && streamlit run deployment/deploy_iris_model.py
